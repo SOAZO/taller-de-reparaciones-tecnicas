@@ -5,17 +5,21 @@
  */
 package tallergit;
 
+import static java.lang.Compiler.command;
+
 /**
  *
  * @author programador
  */
 public class TallerGit {
 
-    public int taller;
-     * @param args the command line arguments
+    public int codigo;
+    public String nombre;
+    /* @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("hola");
     }
     
 }
